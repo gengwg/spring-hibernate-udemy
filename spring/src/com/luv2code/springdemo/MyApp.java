@@ -6,7 +6,7 @@ public class MyApp {
 
 		// create the object
 		// use the interface
-		Coach theCoach = new BaseballCoach();
+		Coach theCoach = new TrackCoach();
 		
 		// use the object
 		System.out.println(theCoach.getDailyWorkout());

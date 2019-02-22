@@ -4,5 +4,7 @@ public interface Coach {
 	
 	// interface only specify interface, not implementing them
 	public String getDailyWorkout();
+	
+	public String getDailyFortune();
 
 }
